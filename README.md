@@ -6,7 +6,7 @@
 
 ## 👨💻 About Me
 
-{{A short (2-3 sentence) introduction about yourself and your interests}}
+I am based in Belgrade from where I do most of my work. My interest in technology started at an early age when I got my first PC with a cathode-ray tube monitor. Ever since then, I have always asked my father to show me how to install and uninstall programs and video games, how to monitor my CPU/GPU/Memory usage, how to use Microsoft Office and paint the documents I created, etc. I started taking my tech interest seriously when I went to faculty, where I was introduced to concepts that helped me become the successful developer that I am today.
 
 🔭 I’m currently working on **{{current project}}**  
 🌱 I’m currently learning **{{technologies you're learning}}**  
