@@ -1,9 +1,8 @@
 ## Hello There 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/{{username}}?style=social)](https://github.com/{{username}})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]({{Your LinkedIn URL}})
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]({{Your Twitter URL}})
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)]({{Your Portfolio URL}})
+[![GitHub Followers](https://img.shields.io/github/followers/IlyaT21?style=social)](https://github.com/IlyaT21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilija-to%C5%A1kovi%C4%87-6b5539206/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://ilijatoskovic.com/)
 
 ## 👨💻 About Me
 
