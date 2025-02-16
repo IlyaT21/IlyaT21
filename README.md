@@ -56,5 +56,5 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)]({{Your Discord Tag}})
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username={{username}}&label=Profile+Views&color=blue&style=flat" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=IlyaT21&label=Profile+Views&color=blue&style=flat" alt="Profile views counter" />
 </p>
