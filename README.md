@@ -35,8 +35,8 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demoli.xyz?user={{username}}&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demoli.xyz?user=IlyaT21&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IliyaT21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 Recent Activity
 
