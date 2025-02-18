@@ -3,6 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/IlyaT21?style=social)](https://github.com/IlyaT21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilija-to%C5%A1kovi%C4%87-6b5539206/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://ilijatoskovic.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{{ilijatoskovic@gmail.com}})
 
 ## 👨💻 About Me
 
@@ -48,27 +49,13 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 
-<hr>
-
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaT21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #{{number}} in [{{repository}}]({{url}})
-2. 🚀 Published release {{version}} in [{{repository}}]({{url}})
-3. 💪 Opened PR #{{number}} in [{{repository}}]({{url}})
-<!--END_SECTION:activity-->
-
 ## 📝 Blog Posts
 
-{{If you have a blog, list your latest posts here}}
-
-## 🤝 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{{ilijatoskovic@gmail.com}})
+### Comming soon
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IlyaT21&label=Profile+Views&color=blue&style=flat" alt="Profile views counter" />
