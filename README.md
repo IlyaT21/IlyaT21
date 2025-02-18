@@ -13,7 +13,7 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 💬 Ask me about **{{subjects you can discuss}}**  
 ⚡ Fun fact: **{{interesting fact about you}}**  
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skillset
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -48,6 +48,8 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 
+
+
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demoli.xyz?user=IlyaT21&theme=dark)](https://git.io/streak-stats)
@@ -67,8 +69,7 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 
 ## 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{{your@email.com}})
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)]({{Your Discord Tag}})
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{{ilijatoskovic@gmail.com}})
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IlyaT21&label=Profile+Views&color=blue&style=flat" alt="Profile views counter" />
