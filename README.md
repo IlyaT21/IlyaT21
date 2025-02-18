@@ -48,11 +48,10 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 
-
+<hr>
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demoli.xyz?user=IlyaT21&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaT21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 Recent Activity
