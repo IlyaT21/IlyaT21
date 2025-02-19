@@ -52,7 +52,7 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaT21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Blog Posts
+## 📝 Blog
 
 ### Comming soon
 
