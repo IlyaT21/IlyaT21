@@ -11,7 +11,7 @@ I am based in Belgrade from where I do most of my work. My interest in technolog
 
 🔭 I’m currently working on completing the <a href="https://www.theodinproject.com/" target="_blank">Odin Project</a>, as well as bunch of presonal projects.
 
-🌱 I’m currently learning Next.js, I plan to start learing React Native next.
+🌱 I’m currently learning React Native, I plan to start learing Nest.js next.
 
 ## 🛠️ Tech Stack & Skillset
 
